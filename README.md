@@ -1,5 +1,4 @@
 # NY-Taxi-Analytics
-JCDS 0408 - 004 Purwadhika On Campus Bandung |
 
 Komisi Taksi dan Limousin Kota New York (New York City Taxi and Limousine Commission) adalah sebuah perusahaan / badan yang dibawahi oleh pemerintahan kota New York di Amerika Serikat yang mencakup industri sewa kendaraan, mengatur serta memfasilitasi Taksi serta / Limousin yang bisa digunakan baik untuk warga kota atau wisatawan kota New York.
 
