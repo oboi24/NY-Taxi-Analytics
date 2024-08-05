@@ -15,3 +15,6 @@ Hal-hal yang harus diperhatikan :
 - Berdasarkan Frekuensi perjalanan, dikarenakan New York merupakan kota metropolis dengan kepadatan yang tinggi, maka perjalanan cenderung lebih singkat.
 
 - Berdasarkan Tip, perjalanan jauh cenderung mendapatkan tip yang lebih banyak.
+
+Tableau Link:
+https://public.tableau.com/app/profile/oktandre.boy/viz/NYCTaxiTripsAnalytics_17228756534870/Homepage?publish=yes
